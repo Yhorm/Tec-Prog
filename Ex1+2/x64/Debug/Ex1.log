@@ -1,0 +1,7 @@
+﻿  Principal.cpp
+  horario.cpp
+  horario.hpp
+  main.cpp
+D:\Vscode-projetos\Ex1 - lista\Ex1\main.cpp(5,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'uint8_t'
+  Gerando Código...
+  Ex1.vcxproj -> D:\Vscode-projetos\Ex1 - lista\Ex1\x64\Debug\Ex1.exe
